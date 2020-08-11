@@ -1,0 +1,23 @@
+.container {
+  position: relative;
+  top: -100px;
+  margin-bottom: -100px;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 60%;
+}
+
+.img {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.line-1,
+.line-2 {
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 10px;
+}
